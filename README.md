@@ -16,6 +16,8 @@
 
 - 📫 How to reach me richard.gill127@gmail.com
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reactionic127&label=Profile%20views&color=0e75b6&style=flat" alt="reactionic127" /> </p>
+
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
 
