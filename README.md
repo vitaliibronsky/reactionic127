@@ -14,8 +14,6 @@
 
 - 🌱 Have a deep understanding of mobile/web software application, and have the business acumen to make the projects successful.
 
-- 📫 How to reach me richard.gill127@gmail.com
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reactionic127&label=Profile%20views&color=0e75b6&style=flat" alt="reactionic127" /> </p>
 
 <h3 align="left">Technologies:</h3>
