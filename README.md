@@ -1,11 +1,5 @@
 <h2 align="center">A Senior React/React Native/Node.js/RoR/ASP.NET Developer from Canada</h2>
 
-<p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=reactionic127&row=1" alt="reactionic127" />
-    </a> 
-</p>
-
 
 - 🌱 Skilled and results-oriented software architect and engineer with over 9 years of solid experience working in technology architecture, design prototyping, and both waterfall and agile/scrum methodologies.
 
