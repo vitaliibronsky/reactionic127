@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Richard Jin</h1>
-<h3 align="center">A Senior React/React Native/Node.js/RoR/ASP.NET Developer from Canada</h3>
+<h2 align="center">A Senior React/React Native/Node.js/RoR/ASP.NET Developer from Canada</h2>
 
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
